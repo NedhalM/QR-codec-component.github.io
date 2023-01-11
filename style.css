@@ -10,17 +10,17 @@ body {
 main {
   background-color: hsl(0, 0%, 100%);
   margin: 95px auto 20px auto;
-  width: 290px;
-  height: 450px;
+  width: 14.4em;
+  height: 23em;
   border-radius: 4.5%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.014),
     0 6px 20px 0 rgba(0, 0, 0, 0.041);
 }
 img {
-  max-width: 260px;
-  margin: 15px;
-  height: 260px;
-  width: 270px;
+  max-width: 12.5em;
+  margin: 1em;
+  height: 12.5em;
+  width: 18em;
   border-radius: 3%;
 }
 h1 {
@@ -36,7 +36,7 @@ h1 {
 p {
   width: 92%;
   text-align: center;
-  margin: 20px 10px;
+  margin: 1.3em 0.6em;
   color: hsl(220, 15%, 55%);
   font-size: 15px;
   font-weight: 400;
