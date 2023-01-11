@@ -7,7 +7,7 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Montserrat", sans-serif;
 }
-.container {
+main {
   background-color: hsl(0, 0%, 100%);
   margin: 95px auto 20px auto;
   width: 290px;
@@ -41,7 +41,7 @@ p {
   font-size: 15px;
   font-weight: 400;
 }
-.attribution {
+footer {
   margin: 0;
   font-size: 15px;
   text-align: center;
