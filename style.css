@@ -11,7 +11,7 @@ main {
   background-color: hsl(0, 0%, 100%);
   margin: 95px auto 20px auto;
   width: 14.4em;
-  height: 26em;
+  height: 450px;
   border-radius: 4.5%;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.014),
     0 6px 20px 0 rgba(0, 0, 0, 0.041);
@@ -35,6 +35,7 @@ h1 {
 }
 p {
   width: 92%;
+
   text-align: center;
   margin: 1.3em 0.6em;
   color: hsl(220, 15%, 55%);
